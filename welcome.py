@@ -1,7 +1,7 @@
 line01 = "********************"   #  header  /  footer
 line02 = "*                  *"   # re-use
 line03 = "*     WELCOME!     *"   
-        line04 = "******"  
+        line04 = "******"  #  issue oplossen met extensions/formatter via VScode
 
 
 #  starts with a blank line
