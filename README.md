@@ -1,2 +1,5 @@
 # python-mini-projects
-training
+
+Python Tutorial for Beginners (with mini-projects)
+freeCodeCamp.org
+
